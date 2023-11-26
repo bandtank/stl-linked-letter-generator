@@ -21,8 +21,8 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="WhatTo3dPrintPas"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="1025"/>
-        <CursorPos X="83" Y="1061"/>
+        <TopLine Value="1026"/>
+        <CursorPos X="117" Y="1049"/>
         <UsageCount Value="200"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>

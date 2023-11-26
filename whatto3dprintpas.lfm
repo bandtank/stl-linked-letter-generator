@@ -1,7 +1,7 @@
 object Form1: TForm1
-  Left = 0
+  Left = 34
   Height = 542
-  Top = 7
+  Top = 53
   Width = 871
   BorderStyle = bsSingle
   Caption = 'Amazing STL Creator 11: Articulated (free version)'
